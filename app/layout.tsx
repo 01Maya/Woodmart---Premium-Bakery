@@ -5,7 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Woodmart - Premium Bakery',
-  description: 'Handcrafted artisan bakery with premium pastries, cakes, and confections',
+  description: 'Handcrafted artisan bakery with premium pastries, cakes, and confections✨ ',
   icons: {
     icon: '/favicon.ico',
   },
