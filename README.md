@@ -14,3 +14,4 @@ This project showcases a premium bakery website with beautifully crafted section
 
 - 🎨 Premium Bakery UI
 - 📱 Fully Responsive Design
+- 🚀 Smooth Scroll Navigation
