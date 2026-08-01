@@ -16,3 +16,4 @@ This project showcases a premium bakery website with beautifully crafted section
 - 📱 Fully Responsive Design
 - 🚀 Smooth Scroll Navigation
 - ✨ Scroll Reveal Animations
+- 🖱️ Mouse Tilt Effect
