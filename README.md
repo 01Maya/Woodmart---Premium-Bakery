@@ -21,3 +21,4 @@ This project showcases a premium bakery website with beautifully crafted section
 - 💖 Hover & Shine Effects
 - 🛍 Interactive Product Cards
 - 📰 Blog Carousel
+- 🎯 Scroll-to-Top Button
