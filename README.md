@@ -19,3 +19,5 @@ This project showcases a premium bakery website with beautifully crafted section
 - 🖱️ Mouse Tilt Effect
 - 🍩 Floating Hero Elements
 - 💖 Hover & Shine Effects
+- 🛍 Interactive Product Cards
+- 📰 Blog Carousel
