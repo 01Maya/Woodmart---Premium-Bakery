@@ -18,3 +18,4 @@ This project showcases a premium bakery website with beautifully crafted section
 - ✨ Scroll Reveal Animations
 - 🖱️ Mouse Tilt Effect
 - 🍩 Floating Hero Elements
+- 💖 Hover & Shine Effects
