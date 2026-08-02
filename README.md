@@ -22,3 +22,4 @@ This project showcases a premium bakery website with beautifully crafted section
 - 🛍 Interactive Product Cards
 - 📰 Blog Carousel
 - 🎯 Scroll-to-Top Button
+- 🌸 Decorative Background Patterns
