@@ -27,4 +27,4 @@ This project showcases a premium bakery website with beautifully crafted section
 
 ---
 
-## Sections
+## 🗂️ Sections
