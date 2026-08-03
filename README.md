@@ -25,5 +25,6 @@ This project showcases a premium bakery website with beautifully crafted section
 - 🌸 Decorative Background Patterns
 - 💎 Glassmorphism Navbar
 
-
 ---
+
+## Sections
