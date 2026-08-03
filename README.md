@@ -30,4 +30,5 @@ This project showcases a premium bakery website with beautifully crafted section
 
 ## 🗂️ Sections
 
-### Hero
+### 🏠 Hero
+A premium hero section featuring floating desserts, animated typography, glassmorphism navigation, and decorative background elements.
