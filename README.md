@@ -43,3 +43,4 @@ Highlights the bakery story using premium imagery, elegant typography, and anima
 A responsive product showcase with pricing, sale badges, bakery-themed backgrounds, and interactive product cards.
 
 ### 🍩 Process
+Illustrates the donut-making process using interactive step cards surrounding a featured dessert image.
