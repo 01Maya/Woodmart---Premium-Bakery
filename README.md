@@ -39,3 +39,4 @@ Displays featured bakery categories with circular images, connecting illustratio
 ### 🎂 About
 Highlights the bakery story using premium imagery, elegant typography, and animated statistics cards.
 
+### 🛍 Featured Products
