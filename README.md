@@ -46,4 +46,6 @@ A responsive product showcase with pricing, sale badges, bakery-themed backgroun
 Illustrates the donut-making process using interactive step cards surrounding a featured dessert image.
 
 ### 📰 Blog
+Showcases bakery articles inside a responsive carousel with custom-designed blog cover images.
+
 
