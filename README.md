@@ -35,3 +35,5 @@ A premium hero section featuring floating desserts, animated typography, glassmo
 
 ### 🍰 Categories
 Displays featured bakery categories with circular images, connecting illustrations, and smooth hover interactions.
+
+### 🎂 About
