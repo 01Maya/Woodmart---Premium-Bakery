@@ -41,3 +41,5 @@ Highlights the bakery story using premium imagery, elegant typography, and anima
 
 ### 🛍 Featured Products
 A responsive product showcase with pricing, sale badges, bakery-themed backgrounds, and interactive product cards.
+
+### 🍩 Process
