@@ -49,5 +49,6 @@ Illustrates the donut-making process using interactive step cards surrounding a 
 Showcases bakery articles inside a responsive carousel with custom-designed blog cover images.
 
 ### 📞 Footer
+Contains brand information, recent posts, store locations, quick links, and social media icons.
 
 
