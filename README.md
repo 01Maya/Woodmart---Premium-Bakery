@@ -44,3 +44,6 @@ A responsive product showcase with pricing, sale badges, bakery-themed backgroun
 
 ### 🍩 Process
 Illustrates the donut-making process using interactive step cards surrounding a featured dessert image.
+
+### 📰 Blog
+
