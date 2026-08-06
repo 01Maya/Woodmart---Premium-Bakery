@@ -64,3 +64,5 @@ Contains brand information, recent posts, store locations, quick links, and soci
 # Clone the repository
 git clone <repository-url>
 
+# Navigate to the project
+cd woodmart-bakery
