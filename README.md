@@ -59,3 +59,8 @@ Contains brand information, recent posts, store locations, quick links, and soci
 ---
 
 ## 🚀 Installation
+
+```bash
+# Clone the repository
+git clone <repository-url>
+
