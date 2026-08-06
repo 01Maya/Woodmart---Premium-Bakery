@@ -52,3 +52,5 @@ Showcases bakery articles inside a responsive carousel with custom-designed blog
 Contains brand information, recent posts, store locations, quick links, and social media icons.
 
 ---
+
+## 🌐 Live Preview
