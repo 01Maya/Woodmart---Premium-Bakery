@@ -71,3 +71,6 @@ cd woodmart-bakery
 # Install dependencies
 npm install
 
+# Start development server
+npm run dev
+
