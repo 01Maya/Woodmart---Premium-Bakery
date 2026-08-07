@@ -67,3 +67,7 @@ git clone <repository-url>
 
 # Navigate to the project
 cd woodmart-bakery
+
+# Install dependencies
+npm install
+
