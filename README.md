@@ -83,6 +83,7 @@ Open **http://localhost:3000** in your browser.
 
 🔗 https://woodmart-premium-bakery.vercel.app
 
+---
 
 ## 💡 Inspiration
 
