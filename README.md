@@ -99,5 +99,5 @@ Inspired by the premium **Woodmart Bakery** landing page and recreated with mode
 
 ## 📄 License
 
-
+This project is created for **portfolio and educational purposes**.
 
