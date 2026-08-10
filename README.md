@@ -96,3 +96,8 @@ Open **http://localhost:3000** in your browser.
 Inspired by the premium **Woodmart Bakery** landing page and recreated with modern UI, enhanced animations, interactive elements, and a fully responsive layout.
 
 ---
+
+## 📄 License
+
+
+
