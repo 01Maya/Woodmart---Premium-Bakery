@@ -103,3 +103,5 @@ Inspired by the premium **Woodmart Bakery** landing page and recreated with mode
 This project is created for **portfolio and educational purposes**.
 
 ---
+
+##  Author
