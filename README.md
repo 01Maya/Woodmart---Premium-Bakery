@@ -87,6 +87,7 @@ Open **http://localhost:3000** in your browser.
 
 ## 📸 Screenshot
 
+<img width="2403" height="6993" alt="Image" src="https://github.com/user-attachments/assets/2d45159f-260b-4e06-a987-eb66f5da210b" />
 
 ---
 
